@@ -1,1 +1,1 @@
-projekt na podstawie https://react-search-github-users.netlify.app
+https://github-users-cris0001.netlify.app
